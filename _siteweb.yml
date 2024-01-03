@@ -4,9 +4,9 @@ base_url: https://sierracv.github.io/sierracv/
 repository_url: https://github.com/sierracv.github.io/
 description: |
   Sierra AM CV
-
 output_dir: "public_build"
-- text: "Sierra AM CV"
+
+- text: "Adriel M Sierra CV"
   href: Adriel-M-Sierra-CV_2023Mar.html 
 
 output_dir: "docs"
