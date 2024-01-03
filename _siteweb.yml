@@ -6,9 +6,6 @@ description: |
   SierraAM_CV
 output_dir: "public_build"
 
-- text: "Sierra AM CV"
-
-
 output_dir: "docs"
   
 output:
