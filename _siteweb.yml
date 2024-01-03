@@ -4,13 +4,11 @@ base_url: https://sierracv.github.io
 repository_url: https://github.com/sierracv.github.io/
 description: |
   SierraAM_CV
-output_dir: "public_build"
 
 output_dir: "docs"
-  
 output:
   html_document:
-    theme: cosmo
+    theme: jekyll-theme-minimal
     toc: false
     highlight: textmate
     css: styles.css
