@@ -3,7 +3,10 @@ title: ""
 base_url: https://sierracv.github.io
 repository_url: https://github.com/sierracv.github.io/
 description: |
-  SierraAM_CV
+  Sierra AM CV
+
+- text: "Adriel M Sierra"
+      href: Adriel-M-Sierra-CV_2023Mar.html
 
 output_dir: "docs"
 output:
