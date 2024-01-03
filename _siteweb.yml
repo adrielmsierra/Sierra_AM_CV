@@ -1,7 +1,7 @@
 name: "SierraAM_CV"
 title: ""
-base_url: https://sierracv.github.io/sierracv/
-repository_url: https://github.com/sierracv.github.io/
+base_url: https://adrielmsierra.github.io/
+repository_url: https://github.com/adrielmsierra.github.io/
 description: |
   Sierra AM CV
 output_dir: "public_build"
