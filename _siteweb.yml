@@ -5,9 +5,6 @@ repository_url: https://github.com/sierracv.github.io/
 description: |
   Sierra AM CV
 
-- text: "Adriel M Sierra"
-      href: Adriel-M-Sierra-CV_2023Mar.html
-
 output_dir: "docs"
 output:
   html_document:
